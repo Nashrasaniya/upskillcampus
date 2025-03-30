@@ -1,5 +1,4 @@
 # upskillcampus
-# upskillcampus
 Project Name: Crop and Weed Detection using Machine Learning
 Project Description  
 This project uses a machine learning model to differentiate between crops and weeds  based on image data. It helps in precision agriculture by automating weed detection, reducing manual effort, and improving crop yield.  
